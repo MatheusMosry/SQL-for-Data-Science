@@ -1,2 +1,3 @@
 # SQL-for-Data-Science
-Curso de SQL da Universidade da Califórnia, Davis
+EN - University of California, Davis - SQL Course
+PT - Curso de SQL - Universidade da Califórnia, Davis
